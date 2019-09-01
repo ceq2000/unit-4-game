@@ -10,21 +10,21 @@ body {
 	background-color: #ffffff;
 }
 
-#gameSection, #scoreSection {
+/* #gameSection, #scoreSection {
 	background-color: #ffffff;
 	margin-left: auto;
 	margin-right: auto;
-}
+} */
 
 /*FOR TESTING*/
-/*#numberSection, #totalPoints {
+/* #numberSection, #totalPoints {
 
 	background-color: orange;
-}*/
+} */
 
 #buttonSection {
 
-	/*background-color: yellow;*/
+	background-color: #ffffff;
 	padding: 0px;
 	padding-top: 50px;
 	padding-bottom: 25px;
