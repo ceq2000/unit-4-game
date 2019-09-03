@@ -12,7 +12,7 @@ Completed on: Sep 3th 2019
 
 * [Link to the game site](https://ceq2000.github.io/unit-4-game)
 
-* [Link to my repository](https://github.com/ceq2000/unit-4-game.git)
+* [Link to my portfolio](https://ceq2000.github.io/portfolio))
 
 - - -
 ## Description of Application
