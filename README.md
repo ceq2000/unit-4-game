@@ -45,7 +45,11 @@ The game is played as follows:
 `The game has 3 functions and 1 click event`
 
 Functions created/used in this game are:
-- **gameBegin:** Re-sets the game while leaving the wins/losses tally intact. Also generates the target random number and the hidden rndowm values of the 4 crystals.
+
+- **pickRandomNumber:**
+- **crystalValues:**
+- **pickRandomCrystals:**
+- **gameReset:** Re-sets the game while leaving the wins/losses tally intact. Also generates the target random number and the hidden rndowm values of the 4 crystals.
 The random number shown at the start of the game should be between 19 - 120.
 Each crystal should have a random hidden value between 1 - 12.
 
