@@ -44,11 +44,12 @@ The game is played as follows:
 - - -
 `The game has 3 functions and 1 click event`
 
-## Functions created/used in this game are:
+## Main functions created/used in this game are:
 
-**Game Settings at Start:**
  - **RandomNumber(rand):** Generates random game number to match
+
  - **pickRandomCrystals(crystals):** Generates array of random crystal values
+
  - **crystalValues(crystalNumbers):** Displays random crystal values
 
 - **pickRandomNumber:** Picks random numbers to match at the beginning of the game.
@@ -62,9 +63,7 @@ The game is played as follows:
 - **gameReset:** Re-sets the game while leaving the wins/losses tally intact. Also generates the target random number and the hidden random values of the 4 crystals. The random number shown at the start of the game should be between 19 - 120.
 Each crystal should have a random hidden value between 1 - 12.
 
-- **playGame:** Adds up the numbers associated to the crystal everytime a user clicks a crystal
-
-- ** If greater,  then the system displayes " You Lost" to the user and incrments Losses score by 1
+- ** NOTE: If greater,  then the system displayes " Sorry ... you Lost!" to the user and incrments Losses score by 1
 If crystal counter matches the target randwom number, then the note "You Won" is displayed to the user and increments the score by one. 
 
       The Click Event captures the users click and parses the number.
