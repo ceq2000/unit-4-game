@@ -47,9 +47,9 @@ The game is played as follows:
 Functions created/used in this game are:
 
 - **Game Settings at Start:**
- -- pickRandomNumber(rand) Generates random game number to match
- -- pickRandomCrystals(crystals) Generates array of random crystal values
- -- crystalValues(crystalNumbers) Displays random crystal values
+ 1.) pickRandomNumber(rand) Generates random game number to match
+ 2.)pickRandomCrystals(crystals) Generates array of random crystal values
+ 3.)crystalValues(crystalNumbers) Displays random crystal values
 
 - **pickRandomNumber:** Picks random numbers to match at the beginning of the game.
 
