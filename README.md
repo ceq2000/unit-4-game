@@ -44,12 +44,12 @@ The game is played as follows:
 - - -
 `The game has 3 functions and 1 click event`
 
-Functions created/used in this game are:
+## Functions created/used in this game are:
 
 **Game Settings at Start:**
- - RandomNumber(rand) Generates random game number to match
- - pickRandomCrystals(crystals) Generates array of random crystal values
- - crystalValues(crystalNumbers) Displays random crystal values
+ - **RandomNumber(rand):** Generates random game number to match
+ - **pickRandomCrystals(crystals):** Generates array of random crystal values
+ - **crystalValues(crystalNumbers):** Displays random crystal values
 
 - **pickRandomNumber:** Picks random numbers to match at the beginning of the game.
 
