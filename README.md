@@ -63,11 +63,9 @@ The game is played as follows:
 - **gameReset:** Re-sets the game while leaving the wins/losses tally intact. Also generates the target random number and the hidden random values of the 4 crystals. The random number shown at the start of the game should be between 19 - 120.
 Each crystal should have a random hidden value between 1 - 12.
 
-- ** NOTE: If greater,  then the system displayes " Sorry ... you Lost!" to the user and incrments Losses score by 1
-If crystal counter matches the target randwom number, then the note "You Won" is displayed to the user and increments the score by one. 
+- ** NOTE: If numbers generated are greater than 120, then the system displays " Sorry ... you Lost!" to the user and increments Losses score by 1. If crystal counter matches the target randwom number, then the alert "You Won" is displayed to the user and increments the score by one. 
 
       The Click Event captures the users click and parses the number.
-
 
 ## List of Technologies Used:
 - - - 
