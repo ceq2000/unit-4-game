@@ -46,11 +46,12 @@ The game is played as follows:
 
 Functions created/used in this game are:
 
-- **pickRandomNumber:**
-- **crystalValues:**
-- **pickRandomCrystals:**
-- **gameReset:** Re-sets the game while leaving the wins/losses tally intact. Also generates the target random number and the hidden rndowm values of the 4 crystals.
-The random number shown at the start of the game should be between 19 - 120.
+- **pickRandomNumber:** Picks random numbers to match at the beginning of the game.
+- **pickRandomCrystals:** Picks random numbers and assigns them to each crystal.
+- **crystalValues:** Changes value of each crystal button according to array
+- **pickRandomCrystals:** Picks random numbers for crystals
+
+- **gameReset:** Re-sets the game while leaving the wins/losses tally intact. Also generates the target random number and the hidden random values of the 4 crystals. The random number shown at the start of the game should be between 19 - 120.
 Each crystal should have a random hidden value between 1 - 12.
 
 - **playGame:** Adds up the numbers associated to the crystal everytime a user clicks a crystal
