@@ -42,7 +42,7 @@ The game is played as follows:
 
 ## JQuery File
 - - -
-`The game has 3 functions and 1 click event`
+`The game has 8 functions and 1 click event`
 
 ## Main functions created/used in this game are:
 
