@@ -46,11 +46,11 @@ The game is played as follows:
 
 ## Main functions created/used in this game are:
 
- - **RandomNumber(rand):** Generates random game number to match
+ - **RandomNumber:** Generates random game number to match
 
- - **pickRandomCrystals(crystals):** Generates array of random crystal values
+ - **pickRandomCrystals:** Generates array of random crystal values
 
- - **crystalValues(crystalNumbers):** Displays random crystal values
+ - **crystalValues:** Displays random crystal values
 
 - **pickRandomNumber:** Picks random numbers to match at the beginning of the game.
 
