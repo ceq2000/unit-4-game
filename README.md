@@ -8,11 +8,9 @@ Started on: August 30th 2019
 Completed on: Sep 3th 2019
 - - -
 
-## Important Links
+## Link to Travel App Website
 
-* [Link to the game site](https://ceq2000.github.io/unit-4-game)
-
-* [Link to my portfolio](https://ceq2000.github.io/portfolio/portfolio.html)
+* [Link to the Let's Go! Travel App Website](https://davidlevens.github.io/Project-1/)
 
 - - -
 ## Description of Application
